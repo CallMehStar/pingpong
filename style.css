@@ -2,7 +2,7 @@ body
 {
     background-position: center;
     background-size: cover;
-    background-color: black;
+    background-color: rgb(54, 54, 54);
 }
 .heading{
     width: 100%;
